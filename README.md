@@ -1,7 +1,7 @@
-Privacy Policy for Our Mobile Apps
+#Privacy Policy for DealsUp
 Effective date: May 25, 2018
 
-Overpass Ltd (“us”, “we”, or “our”) operates the website and mobile applications (the “Service”).
+DealsUp (“us”, “we”, or “our”) operates the mobile applications (the “Service”).
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -9,7 +9,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 
 Definitions
 Service
-Service means the website and all Overpass mobile applications operated by Overpass Ltd
+Service means the website and all Overpass mobile applications operated by DealsUp
 
 Personal Data
 Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
@@ -67,7 +67,7 @@ Preference Cookies. We use Preference Cookies to remember your preferences and v
 Security Cookies. We use Security Cookies for security purposes.
 Advertising Cookies. Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
 Use of Data
-Overpass Ltd uses the collected data for various purposes:
+DealsUp uses the collected data for various purposes:
 
 To provide and maintain our Service
 To notify you about changes to our Service
@@ -77,9 +77,9 @@ To gather analysis or valuable information so that we can improve our Service
 To monitor the usage of our Service
 To detect, prevent and address technical issues
 Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
-If you are from the European Economic Area (EEA), Overpass Ltd legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+If you are from the European Economic Area (EEA), DealsUp legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
 
-Overpass Ltd may process your Personal Data because:
+DealsUp may process your Personal Data because:
 
 We need to perform a contract with you
 You have given us permission to do so
@@ -87,9 +87,9 @@ The processing is in our legitimate interests and it’s not overridden by your 
 For payment processing purposes
 To comply with the law
 Retention of Data
-Overpass Ltd will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+DealsUp will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
 
-Overpass Ltd will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+DealsUp will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
 
 Transfer of Data
 Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
@@ -98,14 +98,14 @@ If you are located outside United Kingdom and choose to provide information to u
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Overpass Ltd will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+DealsUp will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 
 Disclosure of Data
 Legal Requirements
-Overpass Ltd may disclose your Personal Data in the good faith belief that such action is necessary to:
+DealsUp may disclose your Personal Data in the good faith belief that such action is necessary to:
 
 To comply with a legal obligation
-To protect and defend the rights or property of Overpass Ltd
+To protect and defend the rights or property of DealsUp
 To prevent or investigate possible wrongdoing in connection with the Service
 To protect the personal safety of users of the Service or the public
 To protect against legal liability
@@ -118,7 +118,7 @@ We do not support Do Not Track (“DNT”). Do Not Track is a preference you can
 You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
 Your Data Protection Rights Under General Data Protection Regulation (GDPR)
-If you are a resident of the European Economic Area (EEA), you have certain data protection rights. Overpass Ltd aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. DealsUp aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
 If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
 
@@ -129,7 +129,7 @@ The right of rectification. You have the right to have your information rectifie
 The right to object. You have the right to object to our processing of your Personal Data.
 The right of restriction. You have the right to request that we restrict the processing of your personal information.
 The right to data portability. You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
-The right to withdraw consent. You also have the right to withdraw your consent at any time where Overpass Ltd relied on your consent to process your personal information.
+The right to withdraw consent. You also have the right to withdraw your consent at any time where DealsUp relied on your consent to process your personal information.
 Please note that we may ask you to verify your identity before responding to such requests.
 
 You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).

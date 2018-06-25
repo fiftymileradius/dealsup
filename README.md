@@ -1,4 +1,4 @@
-#Privacy Policy for DealsUp
+# Privacy Policy for DealsUp
 Effective date: May 25, 2018
 
 DealsUp (“us”, “we”, or “our”) operates the mobile applications (the “Service”).

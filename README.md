@@ -8,8 +8,8 @@ This page informs you of our policies regarding the collection, use, and disclos
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
 ## Definitions
- **Service  
-    Service means the website and all Overpass mobile applications operated by DealsUp
+ * Service  
+   Service means the website and all Overpass mobile applications operated by DealsUp
 
 Personal Data
 Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).

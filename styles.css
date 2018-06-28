@@ -9,7 +9,10 @@
   height:30px;
   margin:0px;
   background:gray;
-  text-align:center;
+  
+}
+.title{
+       text-align:center;
 }
 .contact{
    text-align:left;

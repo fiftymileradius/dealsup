@@ -1,24 +1,32 @@
 *{
-      margin: 0;
-      padding: 0;
- }
+	    margin: 0;
+	    padding: 0;
+	}
 
-.headerBar{
-  display:flex;
-  height:30px;
-  margin:0px;
-  background:gray;
-  flex-direction:row;
-  
-  
-}
-.title1{
-       text-align:center;
-       background:yellow;
-       justify-content:center;
-}
 
-.contact{
-   text-align:left;
-   
-}
+	.headerBar{
+	display:flex;
+	height:50px;;
+	margin:0px;
+	background:#6200ea;
+
+
+	 
+	justify-content:center;
+
+
+	}
+	.title{
+	     padding:5px;
+	     color:white;
+	     text-align:center;
+
+
+	     
+	}
+	.contact{
+	    margin-top:20px;
+	    text-align:left;
+	     margin-left:10px;
+	 
+	}
